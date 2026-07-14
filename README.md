@@ -26,6 +26,9 @@
 
 ### 2026 年 7 月 14 号添加
 
+#### Jingyuan Zheng - [Github](https://github.com/Jingyuan-Zheng), [博客](https://jingyuan-zheng.github.io/zh/)
+* :white_check_mark: [Text Tray](https://github.com/Jingyuan-Zheng/TextTray)：原生 macOS 临时文本托盘，无需打开完整文本编辑器即可快速查看、编辑、清理、统计、翻译、复制和保存临时文本，并可修复从 PDF 复制产生的断行。 - [更多介绍](https://github.com/Jingyuan-Zheng/TextTray)
+
 #### Tristan Tang - [Github](https://github.com/tristan666666)
 * :white_check_mark: [Agent Island](https://agent-island.dev/)：Claude Code 与 Codex 的开源状态伴侣，在 macOS 和 Windows 上显示实时会话状态，并在需要你接手时提醒；本地监控，无需账号 - [查看仓库](https://github.com/tristan666666/agent-island)
 
